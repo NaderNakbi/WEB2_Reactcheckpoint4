@@ -1,0 +1,27 @@
+.Nader{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 100px 0px 0px 0px;
+
+}
+.Nader Form{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    padding:10px ;
+    border: 2px solid blueviolet ;
+border-color: blueviolet ;
+box-shadow: 0px 0px 11px 1px  blueviolet;
+}
+.mb-2{
+    font-size: 20px ;
+    color: blueviolet;
+    
+}
+.mb-1,.form-check-input,.btn-primary {
+    border-color: blueviolet;
+}
+.btn-primary {
+    background-color: blueviolet;
+}
